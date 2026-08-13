@@ -36,5 +36,3 @@ You can download it from Kaggle .
 - Exploratory data analysis
 - Binary classification
 - Model evaluation
-
-unning the notebook.
